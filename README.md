@@ -3,7 +3,6 @@
          height="45"
          width="45" /> I'm Ayaan Pathan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanpathan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ayaanpathan" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
